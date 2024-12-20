@@ -1,0 +1,12 @@
+.bottom-bent {
+    clip-path: polygon(0 0, 100% 0, 100% 95%, 0 100%, 0 95%);
+}
+
+.hide-scrollbar::-webkit-scrollbar-button {
+    display: none;
+}
+
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

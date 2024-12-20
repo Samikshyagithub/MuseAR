@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Camer Stand', 'Chair', 'Pringles']
+
+roboflow:
+  workspace: kuhackfest
+  project: ku-hackfest
+  version: 4
+  license: Public Domain
+  url: https://universe.roboflow.com/kuhackfest/ku-hackfest/dataset/4
