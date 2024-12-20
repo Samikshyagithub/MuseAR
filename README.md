@@ -25,7 +25,6 @@ Muse AR is an innovative mobile application developed for the KU Hackfest organi
 ---
 # Problem Statement
 
-Problem Statement
 1 **Information Absence**
 
 Visitors often encounter artifacts without detailed explanations, limiting their ability to connect with the exhibits.
