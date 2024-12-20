@@ -2,6 +2,13 @@
 
 ![MuseAR Logo](https://i.ibb.co/B2LZj40/0485acbf-4443-4dc8-b437-3da67b53348b.jpg)
 
+Nepal’s museums, such as the Patan Museum and Basantapur Museum, house a wealth of cultural artifacts and historical treasures. However, traditional displays often fall short in providing visitors with a comprehensive understanding of the rich narratives behind these artifacts. 
+Many exhibits offer limited textual information, leaving visitors without the context needed to fully appreciate their significance. This is especially challenging for international visitors due to language barriers and insufficient translations. 
+
+Additionally, the static nature of museum tours can overwhelm visitors with unfiltered information, making it difficult to focus on key insights. 
+
+This project aims to bridge these gaps by integrating technology to create an engaging, informative, and interactive museum experience.
+
 Muse AR is an innovative mobile application developed for the KU Hackfest organized by Kathmandu University. It uses Augmented Reality (AR) to provide real-time information about scanned artifacts. The application employs a YOLO model trained on custom datasets for artifact recognition and retrieves detailed information dynamically by scraping Wikipedia and YouTube. Additionally, it includes voice output and translation support for accessibility. A complementary web platform delivers general information about the museums.
 
 ---
@@ -16,6 +23,29 @@ Muse AR is an innovative mobile application developed for the KU Hackfest organi
 6. License
 
 ---
+# Problem Statement
+
+Problem Statement
+1 **Information Absence**
+
+Visitors often encounter artifacts without detailed explanations, limiting their ability to connect with the exhibits.
+
+2 **Space and Content Constraints**
+
+Physical limitations restrict how much information can be displayed alongside artifacts.
+
+3 **Language Barriers**
+
+Many museums lack multilingual support, making it difficult for non-native speakers to fully understand the exhibits.
+
+4 **Information Overload**
+
+Visitors may feel overwhelmed by excessive, unorganized information without clear guidance on what is most relevant.
+
+5 **Limited Interactivity**
+
+Traditional static displays do not engage visitors or offer opportunities for deeper exploration.
+
 
 ## Features
 
